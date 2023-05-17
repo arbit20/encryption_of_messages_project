@@ -13,6 +13,7 @@ the elimination or modification of some of the functions or files will damage th
 **********************************************************************
 TEACHER:
 GONZALO ALARCON ROLDAN
+\n
 COLLABORATORS:
 ADRIAN MATIAS FERNANDEZ TORRICO
 JUAN MANUEL MONZON FLORES
